@@ -32,6 +32,8 @@ $ npm start
 
 ### Visit http://localhost:5007
 
+### Live URL https://dashboard.heroku.com/apps/solulabtest  ( mitul.adroja01@gmail.com , mitul013 )
+
 Create .env file and add MONGO_URI = 'your mongodb database uri'
 
 
