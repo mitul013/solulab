@@ -24,9 +24,9 @@ For production
 $ npm start
 ```
 
-### Visit http://localhost:5006
+### Visit http://localhost:5007
 
 Create .env file and add MONGO_URI = 'your mongodb database uri'
 
 
-Thanks Brad Traversy for sharing amazing knowledge
+
